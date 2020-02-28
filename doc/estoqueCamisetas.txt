@@ -1,0 +1,6 @@
+10 Camiseta_Nike 90
+10 Camiseta_Adidas 70
+10 Camiseta_Vans 70
+10 Camiseta_Oakley 70
+10 Camiseta_Bape 150
+

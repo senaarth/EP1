@@ -1,0 +1,25 @@
+1. O programa é executado através de um menu dentro de um looping while,
+por isso para encerrar escolhe-se a opção 0 no menu principal.
+
+2. Os comandos podem ser feitos através de escolhas numéricas de opção
+e respostas de sim ou não.
+
+3. Utilizar os seguintes includes para execução do sistema:
+
+#include <cstdio>
+#include <fstream>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <cstdlib>
+
+4. Considerar a diferenciação de maiúsculas e minúsculas na hora de realizar buscas.
+
+5. Após a finalização do programa, limpar arquivo carrinho.txt para não haver produtos
+registrados não referentes a próxima compra.
+
+Obs.: Gostaria de pedir a compreensão de que o meu trabalho foi feito no windows, o trabalho
+na minha maquina estava com 0 warnings e rodando completamento o modo estoque e o modo venda,
+estou tentano fazer certos testes nos computadores de colegas de turma porém é um pouco mais
+difícil, o meu computador é de uso geral da familia por isso não pude fazer a alteração de sistema
+já que não é apenas meu, e por algum motivo não aceita dual boot.

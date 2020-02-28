@@ -1,0 +1,4 @@
+10 Adidas_Yeezy_700 350
+10 Nike_AirMax_90 350
+10 Nike_Air_Fury 250
+
