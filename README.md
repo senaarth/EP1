@@ -15,7 +15,7 @@ Para colocar as ideias em prática, ela deve abandonar seu velho hábito de util
 - Victoria está aprendendo C++ em um curso online e, portanto, prefere que o sistema seja feito nesta linguagem para que ela consiga fazer as próprias manutenções quando necessário;
 - Devem existir três modos de operação do sistema:
     - **Modo venda**
-    - **Modo recomendação**
+    - **Modo recomendação** (NÃO IMPLEMENTADO)
     - **Modo estoque**
 
 ### Modo venda
